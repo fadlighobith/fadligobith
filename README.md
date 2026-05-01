@@ -13,6 +13,4 @@ Hi, I'm Fadli<br><br>🧠 Junior Developer
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fadligobith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fadligobith&icon=0&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
